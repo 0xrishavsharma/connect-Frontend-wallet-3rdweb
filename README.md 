@@ -1,0 +1,3 @@
+# A basic app for connecting your Frontend to your wallet
+
+Created a Vite app to handle the frontend  and used 3rdweb package/library to fetch address, chainId, etc
